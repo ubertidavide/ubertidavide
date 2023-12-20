@@ -1,5 +1,10 @@
 ### Hi there 👋
 
+- 🔭 I’m currently working @Risolve.net.
+- 🌱 I’m currently learning @UNIBS.
+- 📫 How to reach me:
+  - [Linkedin](https://www.linkedin.com/in/davide-uberti-b4ba8811a/)
+
 <!--
 **ubertidavide/ubertidavide** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
