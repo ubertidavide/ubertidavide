@@ -1,7 +1,8 @@
 ### Hi there 👋
 
-- 🔭 I’m currently working @Risolve.net.
+- 🔭 I’m currently working [@Risolve.net](https://risolve.online).
 - 🌱 I’m currently learning @UNIBS.
+- ⚡ I'm Co-Founder of [@AIRA](https://www.airalab.it/).
 - 📫 How to reach me:
   - [Linkedin](https://www.linkedin.com/in/davide-uberti-b4ba8811a/)
 
